@@ -1,0 +1,61 @@
+**Design Tool: used to design webpage
+1.figma.com 
+2.canva.com
+3.XD.com
+
+**Basic Html Syntax
+<html>
+	<head>
+		<style>
+		</style>
+	</head>
+	<body>
+	<h1></h1>
+	<p></p>
+	</body>
+</html>
+
+loading of page start with head and then jump to body tag.
+
+**DOM :Document Object Model
+
+
+**To define style for class use .
+
+**To define style for id use #
+
+**Tags
+To bold : <b>hi </b> or <strong>hi</strong>
+To italic:<i></i>
+to dispaly line on text not underline use <strike><strike> 
+
+to add video on webpage use <iframe></iframe>
+
+img tag: source :path of logo and alt is to give alternate text if path is wrong.
+../ is use to go back one directory.
+
+**to dispaly random paragraph p>lorema60 here 60 is count of number we can change it according to us.
+
+**List Types
+orederd list:<ol></ol>
+<list></list>
+
+to print multiple list at a time press ol>li*3 hit tab
+ 
+ 
+ **To do changes on multipleline at a time press alt and the put cursur on lines.
+ 
+ **Linking of webpage
+	1.To stay on same page write # in href
+    2.To move on another page give path of that page/file.	
+	
+	
+	website to refer
+	
+	MDN Web Docs
+	
+	for color selection:uicolor picker
+	for shapes: clippy.com
+	
+	
+	flex on web page starts from left to right and for mobile it is from top to bottom.
