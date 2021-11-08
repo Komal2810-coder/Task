@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: blue;
+    background-size: cover;
+}
+.loginForm{
+    width: 300px;
+    padding: 30px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: rgba(0,0,0,4);
+    text-align: center;
+}
+.loginForm h1{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.loginForm input[type="password"]
+{
+    border: 0;
+    background:none;
+    display: block;
+    margin:20px auto;
+    text-align:center;
+    border: 3px solid #0367fd;
+    padding: 14px 10px;
+    width: 220px;
+    outline: none;
+    color:white;
+    border-radius: 240px;
+    transition: 0.25px;
+}
+.loginForm input[type="text"]
+{
+    border: 0;
+    background:none;
+    display: block;
+    margin:20px auto;
+    text-align:center;
+    border: 3px solid #0367fd;
+    padding: 14px 10px;
+    width: 220px;
+    outline: none;
+    color:white;
+    border-radius: 240px;
+    transition: 0.25px;
+}
+
+.loginForm input[type="text"],.loginForm input[type="password"]:hover
+{
+    width: 270px;
+    border-color: #ffc400ec;
+}
+.loginForm input[type="submit"]{
+    border: 0;
+    background:none;
+    display: block;
+    margin:20px auto;
+    text-align:center;
+    border: 3px solid #0367fd;
+    padding: 14px 10px;
+    width: 220px;
+    outline: none;
+    color:white;
+    border-radius: 240px;
+    transition: 0.25px;
+    cursor: pointer;
+
+}
+.loginForm input[type="submit"]:hover
+{
+    background-color: #ffc400ec;
+    
+}
